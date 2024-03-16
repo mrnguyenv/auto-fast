@@ -1,6 +1,6 @@
 {
   "name": "auto-fast",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "This could include features like tagging, searching, and integration with popular code editors.",
   "main": "./src/index.js",
   "scripts": {
