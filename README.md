@@ -32,4 +32,4 @@ Run the createfast function to interactively create a new code fast. You will be
 Run the listfasts function to display a list of available code fast.
 
 The new version will be updated....
-auto-fast
+auto-fast .
